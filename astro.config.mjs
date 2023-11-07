@@ -7,9 +7,9 @@ export default defineConfig({
   site: "https://docs.tween.ly",
   integrations: [
     starlight({
-      title: "Docs with Tailwind",
+      title: "Tweenly docs",
       social: {
-        github: "https://github.com/withastro/starlight",
+        linkedin: "https://www.linkedin.com/company/tween-ly/",
       },
       sidebar: [
         {
