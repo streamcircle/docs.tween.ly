@@ -18,7 +18,7 @@ hero:
     file: ../../assets/screenshot.png
   actions:
     - text: Getting started
-      link: /guides/example/
+      link: /getting-started/introduction/
       icon: right-arrow
       variant: primary
     - text: Log in

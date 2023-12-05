@@ -16,15 +16,34 @@ export default defineConfig({
             },
             sidebar: [
                 {
-                    label: "Guides",
+                    label: "Getting started",
                     items: [
                         // Each item here is one entry in the navigation menu.
-                        { label: "Example Guide", link: "/guides/example/" },
+                        { label: "Introduction", link: "/getting-started/introduction/" },
+                        { label: "Create New Account", link: "/getting-started/create-new-account/" },
+                        { label: "Wizard Tutorial", link: "/getting-started/wizard-tutorial/" },
                     ],
                 },
+                // {
+                //     label: "User Guide",
+                //     items: [
+                //         // Each item here is one entry in the navigation menu.
+                //         { label: "Editor", link: "/user-guide/editor/" },
+                //         { label: "Gallery", link: "/user-guide/gallery/" },
+                //         { label: "Store", link: "/user-guide/store/" },
+                //     ],
+                // },
                 {
-                    label: "Reference",
-                    autogenerate: { directory: "reference" },
+                    label: "User Guide",
+                    autogenerate: { directory: "user-guide" },
+                },
+                {
+                    label: "Release Notes",
+                    autogenerate: { directory: "release-notes" },
+                },
+                {
+                    label: "Appendices",
+                    autogenerate: { directory: "appendices" },
                 },
             ],
             customCss: ["@fontsource/roboto", "./src/tailwind.css"],
