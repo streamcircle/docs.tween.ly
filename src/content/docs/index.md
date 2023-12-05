@@ -1,27 +1,27 @@
 ---
-title: Welcome to Starlight
-description: Get started building your docs site with Starlight.
+title: Welcome to Tweenly
+description: Get started your graphics creation with Tweenly.
 template: splash
 hero:
   title: |
-    Welcome to Starlight with
+    Welcome to Tweenly
     <span
       class="font-black text-transparent
         bg-clip-text bg-gradient-to-b
         from-accent-700 to-accent-400
         dark:from-accent-500 dark:to-accent-200"
     >
-      Tailwind
+      documentation
     </span>
-  tagline: Congrats on setting up a new Starlight project!
+  tagline: Empower your creativity and enhance visual creations using our platform tailored for various broadcasters and graphic designers. 
   image:
-    file: ../../assets/houston.webp
+    file: ../../assets/screenshot.png
   actions:
-    - text: Example Guide
+    - text: Getting started
       link: /guides/example/
       icon: right-arrow
       variant: primary
-    - text: Read the Starlight docs
-      link: https://starlight.astro.build
+    - text: Log in
+      link: https://app.tween.ly/login
       icon: external
 ---
