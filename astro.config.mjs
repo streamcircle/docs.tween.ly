@@ -39,6 +39,7 @@ export default defineConfig({
                 },
                 {
                     label: "Release Notes",
+                    collapsed: true,
                     autogenerate: { directory: "release-notes" },
                 },
                 {
