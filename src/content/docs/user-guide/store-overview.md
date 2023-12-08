@@ -1,5 +1,5 @@
 ---
-title: Overview
+title: Store Overview
 description: ...
 ---
 

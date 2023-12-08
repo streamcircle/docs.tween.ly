@@ -24,19 +24,22 @@ export default defineConfig({
                         { label: "Wizard Tutorial", link: "/getting-started/wizard-tutorial/" },
                     ],
                 },
-                // {
-                //     label: "User Guide",
-                //     items: [
-                //         // Each item here is one entry in the navigation menu.
-                //         { label: "Editor", link: "/user-guide/editor/" },
-                //         { label: "Gallery", link: "/user-guide/gallery/" },
-                //         { label: "Store", link: "/user-guide/store/" },
-                //     ],
-                // },
                 {
                     label: "User Guide",
-                    autogenerate: { directory: "user-guide" },
+                    items: [
+                        // Each item here is one entry in the navigation menu.
+                        { label: "Application Overview", link: "/user-guide/application-overview/" },
+                        { label: "Editor", link: "/user-guide/editor-overview/" },
+                        { label: "Gallery", link: "/user-guide/gallery-overview/" },
+                        { label: "Store", link: "/user-guide/store-overview/" },
+                        { label: "Workspaces", link: "/user-guide/workspaces-overview/" },
+                        { label: "Profile", link: "/user-guide/profile-overview/" },
+                    ],
                 },
+                // {
+                //     label: "User Guide",
+                //     autogenerate: { directory: "user-guide" },
+                // },
                 {
                     label: "Release Notes",
                     collapsed: true,
