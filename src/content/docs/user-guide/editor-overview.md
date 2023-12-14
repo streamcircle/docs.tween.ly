@@ -54,3 +54,58 @@ Cleans up the entire scene, leaving the file and its metadata stored in the Gall
 ### Delete
 
 Currently, a graphics file cannot be deleted directly from the Editor.
+
+## Objects
+
+Objects are of 3 basic types – **rectangle, image, and text**.
+
+Using the buttons at the top of the left sidebar, first-level objects can be added to the scene. Additional objects, which are intended to be children of other objects, can be added using the context menu that is displayed when you right-click on a particular object.
+
+> **ⓘ INFO:** Rectangles and images can contain children objects, while text objects cannot.
+
+The properties of each object, such as position, width and height, can be adjusted by dragging and dropping on the canvas. Other properties can be set in the Properties panel in the right sidebar.
+
+Objects can be duplicated or deleted by right-clicking in the left sidebar objects tree or directly in the canvas.
+
+### Rectangle
+
+The rectangle can be used to create a background, a wrapper, a mask, etc.
+
+#### Rectangle as a background
+
+The use of a rectangle as a background is the most common. The background can have either a **background color** or a **linear gradient**. The definition of a linear gradient is given by the text value in the input field. The correct way to write a linear gradient can be found at [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/gradient/linear-gradient). For visually interesting linear gradient creation, we recommend the use of some friendly tool such as [CSS Gradient](https://cssgradient.io/).
+
+#### Rectangle as a wrapper
+
+A rectangle is a good object to use to create a wrapper, for example, for a dynamic text that should never overflow its background.
+
+1. Create a rectangle.
+2. Use the context menu to create text as a child of the rectangle.
+3. Set the size of the rectangle and the text to be the same.
+4. Set the **overflow** property of the rectangle to **hidden**.
+5. Now, if you try to type text that is longer than the bounding box of the text object, the overflow text will be hidden.
+
+#### Rectangle as a mask
+
+1. Create a rectangle.
+2. Use the context menu to create text, image or another rectangle as a child of the rectangle.
+3. Place the child in the parent rectangle space only so that the intended part is visible.
+4. Set the "Overflow" property of the parent rectangle to "hidden".
+5. Now only the part of the child object that is located in the parent rectangle is displayed.
+
+### Image
+
+Image can have the following format: `bmp`, `jpeg`, `x-png`, `png`, or `gif`.
+
+### Text
+
+#### Fonts
+
+Texts can currently only have predefined fonts – Arial, Book Antiqua, Courier New, Georgia, Helvetica, Impact, Lucida Console, Palatino Linotype, Tahoma, Times New Roman, and Verdana.
+
+#### Text sizing
+
+Text can be either a fixed size in pixels set in **font size** or can adapt to fit the size of the text object area. This can be changed via **text sizing** property:
+
+- **Fixed** – The text size won't adapt to fit the text object area.
+- **Fitting** – The text ensures that it fits into the object area, especially if it is longer than originally defined. This is particularly useful in the case of dynamic or live text, where the text data is changed dynamically and there is no visual control. The text has a minimum font size corresponding to the value set in the font size. If the text is going to overflow its area, the font size will be adjusted to be smaller so that it fits into the area.
