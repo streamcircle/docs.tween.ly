@@ -24,7 +24,7 @@ The graphic file consists of the **graphic scene** itself, and **metadata** desc
 
 ### New
 
-Whenever you open the Editor, it is automatically prepared to start creating new graphics. If the scene is not empty and you want to create a new graphics file file, open the More menu in the top navbar and click New.
+Whenever you open the Editor, it is automatically prepared to start creating new graphics. If the scene is not empty and you want to create a new graphics file, open the More menu in the top navbar and click New.
 
 ### Save
 
