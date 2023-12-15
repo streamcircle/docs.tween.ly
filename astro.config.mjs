@@ -44,7 +44,16 @@ export default defineConfig({
                 {
                     label: "Release Notes",
                     collapsed: true,
-                    autogenerate: { directory: "release-notes" },
+                    items: [
+                        {
+                            label: "v1.4.4", link: "/release-notes/v144",
+                            badge: { text: "current", variant: "success" }
+                        },
+                        { label: "v1.4.3", link: "/release-notes/v143" },
+                        { label: "v1.4.2", link: "/release-notes/v142" },
+                        { label: "v1.4.1", link: "/release-notes/v141" },
+                        { label: "v1.4.0", link: "/release-notes/v140" },
+                    ],
                 },
                 {
                     label: "Appendices",
