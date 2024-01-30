@@ -46,9 +46,10 @@ export default defineConfig({
                     collapsed: true,
                     items: [
                         {
-                            label: "v1.6.0", link: "/release-notes/v160",
+                            label: "v1.6.1", link: "/release-notes/v161",
                             badge: { text: "current", variant: "success" }
                         },
+                        { label: "v1.6.0", link: "/release-notes/v160" },
                         { label: "v1.5.0", link: "/release-notes/v150" },
                         { label: "v1.4.4", link: "/release-notes/v144" },
                         { label: "v1.4.3", link: "/release-notes/v143" },
