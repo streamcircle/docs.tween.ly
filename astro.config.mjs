@@ -32,6 +32,7 @@ export default defineConfig({
                         { label: "Application Overview", link: "/user-guide/application-overview/" },
                         { label: "Editor", link: "/user-guide/editor-overview/" },
                         { label: "Image sequence", link: "/user-guide/editor/image-sequence/" },
+                        { label: "Data source", link: "/user-guide/editor/data-source/" },
                         { label: "Gallery", link: "/user-guide/gallery-overview/" },
                         { label: "Store", link: "/user-guide/store-overview/" },
                         { label: "Workspaces", link: "/user-guide/workspaces-overview/" },
@@ -47,9 +48,10 @@ export default defineConfig({
                     collapsed: true,
                     items: [
                         {
-                            label: "v1.7.0", link: "/release-notes/v170",
+                            label: "v1.8.0", link: "/release-notes/v180",
                             badge: { text: "current", variant: "success" }
                         },
+                        { label: "v1.7.0", link: "/release-notes/v170" },
                         { label: "v1.6.1", link: "/release-notes/v161" },
                         { label: "v1.6.0", link: "/release-notes/v160" },
                         { label: "v1.5.0", link: "/release-notes/v150" },
