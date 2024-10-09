@@ -31,6 +31,7 @@ export default defineConfig({
                         // Each item here is one entry in the navigation menu.
                         { label: "Application Overview", link: "/user-guide/application-overview/" },
                         { label: "Editor", link: "/user-guide/editor-overview/" },
+                        { label: "Assets", link: "/user-guide/editor/assets/" },
                         { label: "Image sequence", link: "/user-guide/editor/image-sequence/" },
                         { label: "Data source", link: "/user-guide/editor/data-source/" },
                         { label: "Gallery", link: "/user-guide/gallery-overview/" },
