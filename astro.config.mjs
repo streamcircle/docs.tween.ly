@@ -32,13 +32,13 @@ export default defineConfig({
                         { label: "Application Overview", link: "/user-guide/application-overview/" },
                         { label: "Graphics Files", link: "/user-guide/graphics-files/" },
                         { label: "Assets", link: "/user-guide/assets/" },
-                        { label: "Assets", link: "/user-guide/editor/assets/" },
+                        { label: "Editor",
+                            items: [
+                                { label: "Editor Overview", link: "/user-guide/editor-overview/" },
                         { label: "Image sequence", link: "/user-guide/editor/image-sequence/" },
                         { label: "Data source", link: "/user-guide/editor/data-source/" },
-                        { label: "Gallery", link: "/user-guide/gallery-overview/" },
-                        { label: "Store", link: "/user-guide/store-overview/" },
-                        { label: "Workspaces", link: "/user-guide/workspaces-overview/" },
-                        { label: "Profile", link: "/user-guide/profile-overview/" },
+                            ]
+                        },
                     ],
                 },
                 // {
