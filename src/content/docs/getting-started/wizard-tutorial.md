@@ -1,13 +1,20 @@
 ---
 title: Wizard Tutorial
-description: ...
+description: Step-by-step guide to introduce new users to Tweenly's basic functionalities.
 ---
 
-The tutorial in Tweenly serves as an introductory guide for all new users, offering a step-by-step walkthrough to present basic functionalities and workflow. The tutorial is designed to provide a seamless onboarding experience, enabling users to swiftly navigate through key features and tools within Tweenly.
+The Wizard Tutorial helps new users get started with Tweenly’s essential tools and workflow. It introduces key features such as creating a new project, navigating the editor, and saving graphics.
 
-### Start Tutorial
+### Starting the Tutorial
 
 1. Open the **main menu**.
-2. Navigate to **Tutorial** and click on it.
-3. The tutorial redirects you to the gallery, starting the tour.
-4. You can continue on next steps with **Nex**t button, or end the tutorial with **Dismiss** button.
+2. Select **Tutorial**.
+3. The tutorial starts in the Gallery.
+4. Click **Next** to continue or **Dismiss** to exit.
+
+:::tip
+You can restart the tutorial anytime from the main menu.
+:::
+
+![Start Tutorial](../../../assets/assets/wizard-1.png)
+![Tutorial Beginning](../../../assets/assets/wizard-2.png)

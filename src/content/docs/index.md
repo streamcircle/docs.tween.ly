@@ -13,7 +13,7 @@ hero:
     >
       documentation
     </span>
-  tagline: Empower your creativity and enhance visual creations using our platform tailored for various broadcasters and graphic designers. 
+  tagline: Welcome to the Tweenly documentation, your guide to Tweenly, the HTML and JS Animation Tool for broadcast graphics.
   image:
     file: ../../assets/screenshot.png
   actions:

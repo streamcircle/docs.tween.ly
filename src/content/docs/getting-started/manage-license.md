@@ -3,15 +3,26 @@ title: Manage License
 description: ...
 ---
 
-The **Free license** is automatically activated when you create an account. You can upgrade your license under Profile.
+You can upgrade your Tweenly license at any time in the **Profile > License & Billing** section.
 
-1. Go to the **Profile**, **License & Billing** section.
+### How to Upgrade
+
+1. Open **Profile > License & Billing**.
 2. Click **Upgrade**.
-3. Select the period or type of license you wish to upgrade. Then click **Upgrade** again.
-4. We don't currently offer automatic upgrades. **Our administrator will contact you** with detailed information on payment details.
-5. The time to pay for the license will start to run. **The administrator will confirm your license upgrade**.
-6. There will be a wait for receipt of your payment for this first period. 
-7. For the next payment period, you will be contacted again by the administrator to make the next payment.
-   - If payment is not received by the invoice due date, your account license will be in a state of suspension and will revert to the free version.
+3. Select your preferred license type and billing period.
+4. Confirm your selection by clicking **Upgrade** again.
+5. An administrator will contact you within 24 hours with payment instructions.
+6. Once payment is processed, your upgraded license will be activated.
 
-For more information about licenses and pricing, please [visit our website](https://tween.ly/#pricing).
+![Profile](../../../assets/assets/profile-menu.png)
+
+### Available License Plans
+
+You can find all plans and pricing details <a href="https://tween.ly/#pricing" target="_blank" rel="noopener noreferrer">here</a>.
+
+### Payments and Renewals
+
+- Payment is manual – an administrator will provide payment details.
+- If payment is not received by the due date, your license will revert to Free status.
+- Your projects and workspaces will remain intact, but premium features will be disabled.
+- To cancel or change your plan, contact info@tween.ly.

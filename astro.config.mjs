@@ -20,9 +20,9 @@ export default defineConfig({
                     items: [
                         // Each item here is one entry in the navigation menu.
                         { label: "Introduction", link: "/getting-started/introduction/" },
-                        { label: "Create New Account", link: "/getting-started/create-new-account/" },
+                        { label: "Installation", link: "/getting-started/installation/" },
                         { label: "Manage License", link: "/getting-started/manage-license/" },
-                        { label: "Wizard Tutorial", link: "/getting-started/wizard-tutorial/" },
+                        { label: "Wizard Tutorial", link: "/getting-started/wizard-tutorial/" }
                     ],
                 },
                 {

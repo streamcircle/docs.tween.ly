@@ -1,16 +1,32 @@
 ---
 title: Introduction
-description: All information to be introduced
+description: Overview of Tweenly and its core functionalities.
 ---
 
-Tweenly is a broadcasting animation tool designed to empower creators in crafting and sharing captivating broadcasting graphics. It caters to a diverse audience, aiming to simplify graphical content creation for small broadcasters, TV channel providers, and graphic designers.
+Tweenly allows you to **create and integrate HTML-based graphics into playout systems**.
 
-### Features
+### What You Can Create with Tweenly
+- **Logos & PGs** – Persistent branding elements over video feeds.
+- **Lower Thirds and Titles** – Dynamic titles and name captions for live broadcasts.
+- **Full-Screen Graphics** – Backgrounds, overlays, and transition visuals.
+- **Data-Driven Graphics** – Real-time visuals linked to external data sources.
 
-- **HTML & JS Editor**: The Editor allows users to create hierarchical structures of rectangles, texts, and images, with styling via a user-friendly WYSIWYG interface. Users can animate objects using predefined animations managed on a single timeline, adjusting parameters like opacity, start-time, duration, and easing types.
+<!-- ### Key Features
 
-- **Gallery**: Graphics are organized within workspaces, offering categorization and filter options (status, author, text search). Each graphic card showcases a thumbnail, title, author, creation date, and status icons. Detailed information includes descriptions, tags, and animation previews.
+- **HTML & JS-Based Graphics**: Build dynamic, customizable graphics using standard web technologies.
+- **Editor**: A powerful environment for creating and animating broadcast graphics, complete with real-time previews and an intuitive timeline for managing animations.
+- **Gallery**: A centralized location to store, organize, and access your graphic files.
+- **Store**: A marketplace to share, purchase, or sell broadcast graphics templates and assets.
+- **Workspaces**: Collaborate with team members in shared workspaces, manage projects, and track transactions.
+- **License Management**: Flexible licensing options that adapt to individual, team, or enterprise needs. -->
 
-- **Shared Workspaces**: Users collaborate within workspaces, granting members access to stored graphics. Upgraded licenses enable the creation of multiple workspaces, facilitating collaborative projects.
+### Who Is Tweenly For?
 
-- **Graphics Store**: Users can publish graphics to the Store, setting prices in virtual coins (free or 1-5 coins) for others to purchase.
+Tweenly is designed for professionals in the broadcast industry:
+
+- **Graphic Designers**: Create high-quality animated graphics.
+- **Broadcast Engineers**: Integrate real-time graphics into playout systems.
+
+### Using This Documentation
+
+This guide covers everything you need to use Tweenly effectively—from installation and setup to creating, managing, and exporting graphics. You'll also find advanced tips, troubleshooting advice, and details on licensing and collaboration.
