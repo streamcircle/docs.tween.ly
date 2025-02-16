@@ -70,6 +70,10 @@ export default defineConfig({
                     label: "Appendices",
                     autogenerate: { directory: "appendices" },
                 },
+                {
+                    label: "Support & Contact",
+                    link: "/support-and-contact/",
+                },
             ],
             customCss: ["@fontsource/roboto", "./src/tailwind.css"],
         }),
