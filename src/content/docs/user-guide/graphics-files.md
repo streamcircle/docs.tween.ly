@@ -78,4 +78,18 @@ Deleted files cannot be recovered. If the file was published in the Store, it wi
 
 ![Graphics File More Menu](../../../assets/assets/editor-more-menu.png)
 
+## Exporting a Graphics File
 
+Graphics files can be exported in two formats, depending on how you plan to use them:
+
+### 1. Package (Recommended)
+Exports the entire file with all assets included in a single folder (ZIP). This ensures offline access, smooth playback, and independence from an internet connection.
+
+### 2. HTML Export
+Creates a lightweight HTML file, while storing all linked assets (such as images, and fonts) online. This option minimizes file size but requires a stable internet connection and access to the asset repository.
+
+:::tip
+**Which format should you choose?**
+- **Use Package** if you need to work offline or require fully self-contained files.
+- **Use HTML** if you want a smaller file and don’t mind linking assets online.
+:::

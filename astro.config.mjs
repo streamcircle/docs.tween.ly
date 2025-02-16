@@ -7,7 +7,7 @@ export default defineConfig({
     site: "https://docs.tween.ly",
     integrations: [
         starlight({
-            title: "Tweenly Docs",
+            title: "TWEENLY DOCS",
             social: {
                 facebook: "https://www.facebook.com/app.tween.ly/",
                 instagram: "https://www.instagram.com/app.tween.ly/",
@@ -16,27 +16,35 @@ export default defineConfig({
             },
             sidebar: [
                 {
-                    label: "Getting started",
+                    label: "Getting Started",
                     items: [
-                        // Each item here is one entry in the navigation menu.
                         { label: "Introduction", link: "/getting-started/introduction/" },
                         { label: "Installation", link: "/getting-started/installation/" },
                         { label: "Manage License", link: "/getting-started/manage-license/" },
-                        { label: "Wizard Tutorial", link: "/getting-started/wizard-tutorial/" }
+                        { label: "Wizard Tutorial", link: "/getting-started/wizard-tutorial/" },
+                        // { label: "Create Your First Graphics", link: "/getting-started/create-your-first-graphics/" },
+                    ],
+                },
+                {
+                    label: "Navigating Tweenly",
+                    items: [
+                        { label: "Application Overview", link: "/navigating-tweenly/application-overview" },
+                        { label: "Editor", link: "/navigating-tweenly/editor-overview/" },
+                        { label: "Gallery", link: "/navigating-tweenly/gallery-overview/" },
+                        { label: "Store", link: "/navigating-tweenly/store-overview/" },
+                        { label: "Workspaces", link: "/navigating-tweenly/workspaces-overview/" },
+                        { label: "Profile", link: "/navigating-tweenly/profile-overview/" },
                     ],
                 },
                 {
                     label: "User Guide",
                     items: [
-                        // Each item here is one entry in the navigation menu.
-                        { label: "Application Overview", link: "/user-guide/application-overview/" },
                         { label: "Graphics Files", link: "/user-guide/graphics-files/" },
-                        { label: "Assets", link: "/user-guide/assets/" },
-                        { label: "Editor",
+                        { label: "Assets",
                             items: [
-                                { label: "Editor Overview", link: "/user-guide/editor-overview/" },
-                        { label: "Image sequence", link: "/user-guide/editor/image-sequence/" },
-                        { label: "Data source", link: "/user-guide/editor/data-source/" },
+                                { label: "Assets", link: "/user-guide/assets/" },
+                                { label: "Image sequence", link: "/user-guide/image-sequence/" },
+                                { label: "Data source", link: "/user-guide/data-source/" },
                             ]
                         },
                     ],
