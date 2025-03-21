@@ -28,7 +28,7 @@ Enter basic details:
 - **Slug** - An unique identifier (short name). 🚨 The slug must be unique across all Data Sources in the workspace.
 - **URL** - URL to the origin of the data source
 - **type** - elect XML or JSON based on the data format.
-- **Data source refresh** option - If enabled, the Data Source will refresh at the specified interval (in seconds). A green label on the timeline indicates active auto-refresh.
+- **Data source refresh** option - If enabled, the Data Source will refresh at the specified time (in seconds). A green label on the timeline indicates this timestamp.
 
 Click **Next** to continue.
 
@@ -49,6 +49,8 @@ Click **Next** to proceed or go Back to review Step 1.
     - Removed if no longer needed.
 
 Click **Save** to finalize the Data Source.
+
+![Data source](../../../assets/data-source/data-source-refresh.png)
 
 ## Editing a Data Source
 
