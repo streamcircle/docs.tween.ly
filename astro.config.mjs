@@ -40,6 +40,11 @@ export default defineConfig({
                     label: "User Guide",
                     items: [
                         { label: "Graphics Files", link: "/user-guide/graphics-files/" },
+                        { label: "Objects",
+                            items: [
+                                { label: "Tickers", link: "/user-guide/tickers/" },
+                            ]
+                        },
                         { label: "Assets",
                             items: [
                                 { label: "Assets", link: "/user-guide/assets/" },
@@ -47,6 +52,7 @@ export default defineConfig({
                                 { label: "Data source", link: "/user-guide/data-source/" },
                             ]
                         },
+                        { label: "Keyboard shortcuts", link: "/user-guide/keyboard-shortcuts/" },
                     ],
                 },
                 // {
@@ -58,9 +64,10 @@ export default defineConfig({
                     collapsed: true,
                     items: [
                         {
-                            label: "v1.9.3", link: "/release-notes/v193",
+                            label: "v1.10.1", link: "/release-notes/v1101",
                             badge: { text: "current", variant: "success" }
                         },
+                        { label: "v1.9.3", link: "/release-notes/v193" },
                         { label: "v1.9.2", link: "/release-notes/v192" },
                         { label: "v1.9.0", link: "/release-notes/v190" },
                         { label: "v1.8.0", link: "/release-notes/v180" },
