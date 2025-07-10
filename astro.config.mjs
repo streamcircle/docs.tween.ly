@@ -10,7 +10,6 @@ export default defineConfig({
             title: "TWEENLY DOCS",
             social: {
                 facebook: "https://www.facebook.com/app.tween.ly/",
-                instagram: "https://www.instagram.com/app.tween.ly/",
                 linkedin: "https://www.linkedin.com/company/tween-ly/",
                 youtube: "https://www.youtube.com/@Tweenly",
             },
