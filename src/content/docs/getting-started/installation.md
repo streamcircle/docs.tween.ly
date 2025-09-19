@@ -35,7 +35,7 @@ Follow these steps to start using Tweenly:
    - You can find all plans with pricing <a href="https://tween.ly/#pricing" target="_blank" rel="noopener noreferrer">here</a>.
 
 4. **Set Up Your Workspace**
-   - Each user gets a default **Private** workspace.
+   - Each user gets a default **Personal** workspace.
    - Paid plans allow for custom workspaces and team collaboration.
    - Workspaces allow you to organize your projects and collaborate with team members.
 

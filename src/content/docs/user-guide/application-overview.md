@@ -35,9 +35,9 @@ The **Store** is a marketplace for sharing and purchasing graphics.
 
 ### 4. Workspaces
 
-Workspaces provide private and shared environments for managing projects.
+Workspaces provide personal and shared environments for managing projects.
 
-- **Private and Own Workspaces**: Every user has a private workspace, with additional ones available based on the license type.
+- **Personal and Own Workspaces**: Every user has a personal workspace, with additional ones available based on the license type.
 - **Coins and Transactions**: Earn and manage coins within your workspace through store transactions.
 - **Members**: Add collaborators with different roles (Owner, Admin, Collaborator) to work on shared files.
 

@@ -45,7 +45,7 @@ The grid consists of graphic file cards. Graphics file card include:
 - Icons with graphics file state:
   - **Is final** – the graphics file was marked as final
   - **Is published** – the graphics file is available in the store
-  - **Is exported** – the graphics file was exported. This is especially useful within a Private workspace, in which only two graphics files can be exported.
+  - **Is exported** – the graphics file was exported. This is especially useful within a Personal workspace, in which only two graphics files can be exported.
 - **Open** card preview action -->
 
 <!-- ---

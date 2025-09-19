@@ -1,6 +1,6 @@
 ---
 title: Workspaces Overview
-description: Understanding private and shared workspaces, roles, transactions, and asset management.
+description: Understanding personal and shared workspaces, roles, transactions, and asset management.
 ---
 
 A **workspace** is a **private (Personal) or shared space** where users manage **graphics files, assets, and coin transactions**. Workspaces allow **collaboration, file organization, and asset sharing** within a team or an individual environment.
@@ -78,7 +78,7 @@ Since **assets** (images, fonts, data sources, etc.) are stored in workspaces:
 ## 📌 Key Takeaways
 
 - **Workspaces store and organize graphics files & assets.**  
-- **Private Workspaces are individual-only; shared workspaces allow collaboration.**  
+- **Personal Workspaces are individual-only; shared workspaces allow collaboration.**  
 - **Transactions & coins are available in shared workspaces, not private ones.**  
 - **Workspace roles define user permissions.**  
 - **Assets are workspace-bound but can be shared across multiple graphics files.**  
