@@ -42,14 +42,15 @@ Tweenly supports three primary object types:
 - **Text** – Supports both system and uploaded fonts.  
 - **Image** – Accepts `png, jpg, bmp, gif` formats.  
 - **Image sequences**
-- **Video panel**
+- **Crawl ticker**
+- **Scroll ticker**
 
 ### Object Tree
 - Objects **reordered** (move up, down, to the root), or **nested** (e.g., text inside a rectangle).  
 - **Right-click** an object to duplicate, delete, or create child objects.  
 - **Nesting is limited**:  
   - ✅ **Rectangles & Images**: Can contain child objects.  
-  - ❌ **Text, Image sequences and Video panel Objects**: Cannot have children.  
+  - ❌ **Text, Image sequences and Tickers**: Cannot have children.  
 
 <!-- ## **Working with Objects**  
 
