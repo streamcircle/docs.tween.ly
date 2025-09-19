@@ -8,13 +8,12 @@ You can upgrade your Tweenly license at any time in the **Profile > License & Bi
 ### How to Upgrade
 
 1. Open **Profile > License & Billing**.
-2. Click **Upgrade**.
-3. Select your preferred license type and billing period.
-4. Confirm your selection by clicking **Upgrade** again.
-5. An administrator will contact you within 24 hours with payment instructions.
-6. Once payment is processed, your upgraded license will be activated.
+2. Click **Continue to upgrade**.
+4. Confirm by clicking **Confirm upgrade**.
+5. Unlimited license will be activated immediately.
+6. An administrator will contact you within 24 hours with payment instructions.
 
-![Profile](../../../assets/assets/profile-menu.png)
+<!-- ![Profile](../../../assets/assets/profile-menu.png) -->
 
 ### Available License Plans
 
@@ -24,5 +23,4 @@ You can find all plans and pricing details <a href="https://tween.ly/#pricing" t
 
 - Payment is manual – an administrator will provide payment details.
 - If payment is not received by the due date, your license will revert to Free status.
-- Your projects and workspaces will remain intact, but premium features will be disabled.
-- To cancel or change your plan, contact info@tween.ly.
+- Your projects and workspaces will remain intact, but Unlimited features will be disabled.
