@@ -5,7 +5,7 @@ description: Overview of the Tweenly Gallery, including search, filtering, sorti
 
 The **Gallery** is the central location for managing both **graphics files** and **assets** in Tweenly. It provides tools for **searching, filtering, sorting, and managing** all files and resources available in your workspaces.
 
-## 📌 Key Points About the Gallery
+## Key Points About the Gallery
 - Stores **both graphics files and assets** (images, image sequences, fonts, and data sources).  
 - Displays **only the files and assets accessible to the user** based on their workspace permissions.
 - Allows users to **search, filter, sort, duplicate, and manage files**.  
@@ -21,7 +21,6 @@ The Gallery provides several options for finding and organizing files and assets
   - **All**  
   - **Draft**  
   - **Final**  
-  - **Published**  
 - **Created By Filter** – Filter files by author:  
   - **All**  
   - **Me**  
