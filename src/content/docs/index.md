@@ -22,6 +22,6 @@ hero:
       icon: right-arrow
       variant: primary
     - text: Log in
-      link: https://app.tween.ly/login
+      link: https://editor.tween.ly/login
       icon: external
 ---

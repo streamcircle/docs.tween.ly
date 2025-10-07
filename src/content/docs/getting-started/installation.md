@@ -21,12 +21,12 @@ Tweenly is optimized for **Google Chrome**. Avoid using another web browsers.
 Follow these steps to start using Tweenly:
 
 1. **Create an Account**
-   - Go to the <a href="https://app.tween.ly/signup" target="_blank" rel="noopener noreferrer">signup page</a>.
+   - Go to the <a href="https://editor.tween.ly/signup" target="_blank" rel="noopener noreferrer">signup page</a>.
    - Enter your details and confirm with **Sign up**.
    - Verify your email.
 
 2. **Log In**
-   - Go to the <a href="https://app.tween.ly/login" target="_blank" rel="noopener noreferrer">login page</a>
+   - Go to the <a href="https://editor.tween.ly/login" target="_blank" rel="noopener noreferrer">login page</a>
    - Enter your credentials and confirm with **Log in**.
 
 3. **Choose Your License**
